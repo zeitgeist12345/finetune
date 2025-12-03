@@ -28,4 +28,5 @@ To install unsloth, run:
 ```
 pip install unsloth
 ```
-Then run the `Llama3_1_(8B)_Alpaca.ipynb`.
+Then run the `Llama3_1_(8B)_Alpaca.ipynb` in this repo.
+The code is based upon https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-Alpaca.ipynb.
